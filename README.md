@@ -2,7 +2,7 @@
 
 `yarn install`: install dependencies
 
-`yarn run`: use templates to generate files
+`yarn gen`: use templates to generate files
 
 ### Handlebars
 
