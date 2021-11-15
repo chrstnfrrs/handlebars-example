@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "promise-fs": "^2.1.1"
+  }
+}
